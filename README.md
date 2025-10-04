@@ -28,7 +28,7 @@ It demonstrates how to connect external AI models with the OpenAI Agents framewo
 
 ## ⚙️ Setup Instructions
 1️⃣ Clone the Repository  
-   git clone https://github.com/hassannawaz02/AI-Chatbot--Agent--using-OpenAI-Agents-SDK---Gemini-API.git  
+   git clone https://github.com/hassannawaz02/openai-agents-chatbot.git  
    cd gemini-chatbot-agent  
 
 2️⃣ Create and Activate a Virtual Environment  
